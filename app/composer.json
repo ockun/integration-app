@@ -1,0 +1,16 @@
+{
+    "name": "php_ci_book/blogapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "okuyama",
+            "email": "k.okuyama@fosbury.co.jp"
+        }
+    ],
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.5.*"
+    }
+}
