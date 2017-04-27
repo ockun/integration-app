@@ -2518,5 +2518,45 @@
             "web service"
         ],
         "abandoned": "guzzlehttp/guzzle"
+    },
+    {
+        "name": "cakedc/migrations",
+        "version": "2.5.1",
+        "version_normalized": "2.5.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/CakeDC/migrations.git",
+            "reference": "b1180762ebc6402b67b9ccae13f1f9ce6ccecf65"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/CakeDC/migrations/zipball/b1180762ebc6402b67b9ccae13f1f9ce6ccecf65",
+            "reference": "b1180762ebc6402b67b9ccae13f1f9ce6ccecf65",
+            "shasum": ""
+        },
+        "require": {
+            "composer/installers": "*",
+            "php": ">=5.3.0"
+        },
+        "time": "2017-03-22T18:18:22+00:00",
+        "type": "cakephp-plugin",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Cake Development Corporation",
+                "email": "team@cakedc.com",
+                "homepage": "http://cakedc.com"
+            }
+        ],
+        "description": "Migrations Plugin for CakePHP",
+        "homepage": "http://cakedc.com",
+        "keywords": [
+            "cakephp",
+            "migrations"
+        ]
     }
 ]
