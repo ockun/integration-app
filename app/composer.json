@@ -18,7 +18,9 @@
     ],
     "require": {
         "cakephp/cakephp": "2.5.*",
-        "josegonzalez/cakephp-environments": "1.0.0"
+        "josegonzalez/cakephp-environments": "1.0.0",
+        "guzzle/guzzle": "*",
+        "guzzlehttp/guzzle": "*"
     },
     "require-dev": {
         "pear/console_commandline": "@dev",

@@ -7,10 +7,8 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'PEAR' => array($vendorDir . '/pear/pear_exception'),
-    'Guzzle\\Stream' => array($vendorDir . '/guzzle/stream'),
-    'Guzzle\\Parser' => array($vendorDir . '/guzzle/parser'),
-    'Guzzle\\Http' => array($vendorDir . '/guzzle/http'),
-    'Guzzle\\Common' => array($vendorDir . '/guzzle/common'),
+    'Guzzle\\Tests' => array($vendorDir . '/guzzle/guzzle/tests'),
+    'Guzzle' => array($vendorDir . '/guzzle/guzzle/src'),
     'Goutte' => array($vendorDir . '/fabpot/goutte'),
     'DrSlump' => array($vendorDir . '/sizuhiko/spec-php/library'),
     'Console' => array($vendorDir . '/pear/console_commandline'),
